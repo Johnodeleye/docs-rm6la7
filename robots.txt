@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-24jy7n.koi888.cfd/sitemap.xml
